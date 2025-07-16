@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/tareqjamilsarkar/Downloads/Computer Graphics Project using C++",
+      "program": "/Users/tareqjamilsarkar/Downloads/Computer Graphics Project using C++/build/Debug/outDebug"
+    }
+  ]
+}
